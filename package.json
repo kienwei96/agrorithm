@@ -81,10 +81,5 @@
     "vitest": "^2.1.4"
   },
   "packageManager": "pnpm@11.22.0",
-  "pnpm": {
-  "overrides": {
-    "tailwindcss>nanoid": "3.3.7"
-  },
-  "onlyBuiltDependencies": ["esbuild"]
-}
+  
 }
